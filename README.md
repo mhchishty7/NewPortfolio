@@ -1,1 +1,2 @@
-# NewPortfolio
+# My Portfolio website
+#### "Your personal portfolio website is a true work of art, crafted with precision using HTML, Javascript, and CSS. It shines bright like a diamond, showcasing your exceptional skills and impressive projects. And with its host on Vercel, it's poised to reach new heights of success. If it's inspired you and left you in awe, show your support by giving it a star on your repository. Let's see this portfolio soar to new heights together!"
